@@ -1,4 +1,4 @@
-// in de javascript
+// in the javascript
 const focusableElements = document.body.querySelectorAll('a[href], button, input, submit, select');
 
 let mouseActive = false;
